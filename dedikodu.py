@@ -52,5 +52,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Gizli not: QW5hIHlhcsSxIHZlcm1leWkgdW51dG1hIGltZSA=
+# Gizli not: b3kgdmVybWV5aSB1bnV0bWEga29tc3U=
 # (Bu satırı merak etmeyin, önemli değil. Gerçekten.)
